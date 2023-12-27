@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "bravetalkbot",
+    "slug": "bravetalkbot",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/equity.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/animation_lmoprkv8.json",
+      "resizeMode": "cover",
+      "backgroundColor": "black"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
